@@ -12,10 +12,10 @@ git commit -m "Remove yarn.lock" yarn.lock
 rm -rf package-lock.json pnpm-lock.yaml yarn.lock
 
 
-bun e bunx
+# Bun e Bunx
 Em resumo, o `bun` é usado para gerenciar pacotes e dependências em projetos JavaScript, enquanto o `bunx` é usado para executar comandos de pacotes de forma conveniente e temporária
 
-Formas de instalação:
+# Opções de instalação:
 - macOS/Linux (curl)
 - NPM
 - Homebrew
