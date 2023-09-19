@@ -9,6 +9,8 @@ git commit -m "Remove pnpm-lock.yaml" pnpm-lock.yaml
 # Remover Yarn
 git rm yarn.lock
 git commit -m "Remove yarn.lock" yarn.lock
+
+# Comando que remove
 rm -rf package-lock.json pnpm-lock.yaml yarn.lock
 
 
