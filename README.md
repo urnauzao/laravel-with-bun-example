@@ -1,3 +1,8 @@
+# Doc Oficial:
+[https://bun.sh](https://bun.sh)
+# Vídeo
+[https://youtu.be/AM0TgbSQJGc](https://youtu.be/AM0TgbSQJGc)
+
 # Remover NPM
 git rm package-lock.json 
 git commit -m "Remove package-lock.json" package-lock.json
